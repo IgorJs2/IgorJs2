@@ -22,7 +22,8 @@ The production code lives in private organization repos. These repos describe ea
 | Project | What it is | Stack |
 |---|---|---|
 | [Metrocraft 2036](https://github.com/IgorJs2/MetrocraftGame) | Online game on our own engine (about 70 modules per side), plus microservices, launcher and payments | Java 21, Spring Boot, gRPC, Kafka, Next.js, Docker |
-| [Stalcraft Wiki](https://github.com/IgorJs2/StalcraftWikiSite) | The most visited fan site for the game: item database, interactive map, auction history | Next.js, Django REST, PostgreSQL, ClickHouse |
+| [Metrocraft 2036 website](https://github.com/IgorJs2/MetrocraftSite) | Game website in two editions, IGS ID single sign-on, payments, forum, support desk and launcher | Next.js, Spring Boot, Keycloak, Tauri |
+| [STALZONE Wiki](https://github.com/IgorJs2/StalcraftWikiSite) | The most visited fan site for the game: item database, interactive map, auction history | Next.js, Django REST, PostgreSQL, ClickHouse |
 | [Stalcraft Trade](https://github.com/IgorJs2/StalcraftTradeSite) | Player marketplace with live auction data and Discord deals | NestJS, MongoDB, Angular, Kafka |
 
 My older learning projects from 2021-2023 are still public and marked DEPRECATED.

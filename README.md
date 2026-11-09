@@ -2,7 +2,7 @@
 
 Full-stack developer and technical lead based in **Montréal, Canada**. For 3.5+ years I've built and run production systems for online games: backends, websites, data pipelines and the infrastructure under them.
 
-- 🎮 **Project Lead / CTO at [Metrocraft 2036](https://metrocraft36.com)**: multiplayer online game with a custom Java engine, Spring Boot microservices and a team of 20–40.
+- 🎮 **Project Lead / CTO at [Metrocraft 2036](https://metrocraft36.com)**: multiplayer online game on our own in-house Java engine, Spring Boot microservices and a team of 20–40.
 - 🛠️ **Co-founder of Stalcraft LAB**: [stalzone.wiki](https://stalzone.wiki) (~1M unique visitors last year, 5–7k concurrent) and the [stalcraft.trade](https://stalcraft.trade) marketplace.
 - 🔎 Open to **Backend, Full-stack and DevOps** roles: remote, Montréal or Toronto.
 - 📫 [ihorurmach@gmail.com](mailto:ihorurmach@gmail.com) · [LinkedIn](https://www.linkedin.com/in/ihor-urmach-28262320a/)
